@@ -1,0 +1,11 @@
+{
+  "namespace": "HibiscusDragon4",
+  "name": "EnhancedStamina",
+  "description": "A realistic stamina enhancement mod",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ],
+  "website_url": "https://github.com/HibiscusDragon4/EnhancedStamina",
+  "FullName": "HibiscusDragon4-enhancedStamina"
+}
